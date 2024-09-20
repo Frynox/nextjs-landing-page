@@ -12,7 +12,7 @@ export default function HeroComponent() {
             <img src="/play-store.png" alt="Descargar en Google Play" className={styles.storeIcon} />
           </a>
           <a href="https://www.apple.com/app-store/" target="_blank" rel="noopener noreferrer">
-            <img src="/app-store.png" alt="Descargar en App Store" className={styles.storeIcon} />
+            <img src="/app-store2.png" alt="Descargar en App Store" className={styles.storeIcon} />
           </a>
         </div>
       </div>
