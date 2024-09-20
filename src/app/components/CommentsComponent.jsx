@@ -5,17 +5,17 @@ export default function CommentsComponent() {
     {
       name: 'Carlos García',
       text: 'FitnessPro ha transformado por completo mi estilo de vida. Los entrenamientos son de alta calidad y el equipo es súper atento. ¡100% recomendado!',
-      image: '/person1.jpg',
+      image: '/uifaces-popular-image.jpg',
     },
     {
       name: 'Ana López',
       text: 'Nunca pensé que pudiera obtener entrenamientos personalizados tan buenos online. FitnessPro me ha motivado como nunca.',
-      image: '/person2.jpg',
+      image: '/uifaces-popular-image (1).jpg',
     },
     {
       name: 'Jorge Martínez',
       text: 'La mejor aplicación de fitness que he probado. Los entrenadores están siempre disponibles y el seguimiento nutricional es excelente.',
-      image: '/person3.jpg',
+      image: '/uifaces-popular-image (2).jpg',
     },
   ];
 
