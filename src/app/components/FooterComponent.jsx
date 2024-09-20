@@ -41,10 +41,10 @@ export default function FooterComponent() {
       <div className={styles.footerSocial}>
         <h4>Síguenos</h4>
         <div className={styles.socialIcons}>
-          <a href="#"><img src="/facebook-icon.png" alt="Facebook" /></a>
-          <a href="#"><img src="/twitter-icon.png" alt="Twitter" /></a>
-          <a href="#"><img src="/instagram-icon.png" alt="Instagram" /></a>
-          <a href="#"><img src="/youtube-icon.png" alt="YouTube" /></a>
+          <a href="#"><img src="/facebook.png" alt="Facebook" /></a>
+          <a href="#"><img src="/twitter.png" alt="Twitter" /></a>
+          <a href="#"><img src="/instagram.png" alt="Instagram" /></a>
+          <a href="#"><img src="/youtube.png" alt="YouTube" /></a>
         </div>
       </div>
     </footer>
