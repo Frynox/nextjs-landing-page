@@ -1,0 +1,65 @@
+.hero {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: url('/fitness-img.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 0 20px;
+    color: white;
+  }
+  
+  .textContent {
+    position: relative;
+    background-color: rgba(192, 24, 178, 0.096);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .titleh1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .description {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .download {
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    background-color: #a846ac;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .download:hover {
+    background-color: #2998e2;
+  }
+  
+  .downloadIcons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .storeIcon {
+    width: 50px;
+    height: auto;
+    transition: transform 0.3s ease;
+  }
+  
+  .storeIcon:hover {
+    transform: scale(1.05);
+  }
+  

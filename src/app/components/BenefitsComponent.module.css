@@ -1,0 +1,30 @@
+.benefitsSection {
+    padding: 60px 20px;
+    background-color: #292929;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .benefitsTitle {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    color: #fff;
+  }
+  
+  .benefitsList {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  .benefitsList li {
+    margin-bottom: 15px;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  .benefitsList li:last-child {
+    border-bottom: none;
+  }
+  

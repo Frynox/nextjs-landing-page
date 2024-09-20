@@ -1,0 +1,61 @@
+.plansSection {
+    padding: 80px 20px;
+    background-color: rgba(29, 29, 29, 0.9);
+    text-align: center;
+  }
+  
+  .plansTitle {
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+    color: white;
+  }
+  
+  .plansContainer {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 10px;
+  }
+  
+  .plan {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 30px 20px;
+    width: 300px;
+    text-align: left;
+    transition: transform 0.3s ease;
+    color: white;
+  }
+
+  .plan ul {
+    padding-left: 20px; /* Espacio adicional a la izquierda del ul */
+  }
+  
+  .plan ul li {
+    margin-bottom: 15px; /* Aumenta el margen inferior entre los ítems */
+  }
+  
+  .plan:hover {
+    transform: translateY(-10px);
+  }
+  
+  .plan h3 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #c056c5;
+    font-weight: bold;
+  }
+  
+  .plan p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .plan ul li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #ccc;
+  }
+  
